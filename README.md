@@ -1,1 +1,1 @@
-# ipo-performance-eda ongoing
+# ipo-performance-eda on-going
